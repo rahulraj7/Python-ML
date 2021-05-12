@@ -6,3 +6,7 @@ Pandas
 Numpy
 Matplotlib
 seaborn
+
+Data storage:
+Mysql
+Sqlite
