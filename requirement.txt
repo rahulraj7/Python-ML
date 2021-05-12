@@ -1,1 +1,8 @@
 This is ML Based Project.
+
+
+Python
+Pandas
+Numpy
+Matplotlib
+seaborn
