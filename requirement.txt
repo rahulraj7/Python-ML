@@ -10,3 +10,7 @@ seaborn
 Data storage:
 Mysql
 Sqlite
+
+frame work:
+django
+flask
